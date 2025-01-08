@@ -52,13 +52,14 @@ body{
     margin: 0 20px;
     padding-top: 20px;
     font-size: 15px;
-color: rgb(2, 11, 78);
+color:yellow;
 }
 #output{
     text-align: right;
     height: 60px;
     margin: 10px 20px;
     font-size: 30px;
+    color: yellow;
 }
 #keyboard{
     height: 400px;
